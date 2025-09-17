@@ -1,6 +1,11 @@
+
+import HeroSection from "./components/HeroSection.jsx";
+
 const App = () => {
     return (
-        <></>
+        <>
+        <HeroSection/>
+        </>
 
     );
 };
