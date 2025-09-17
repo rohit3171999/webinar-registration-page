@@ -4,6 +4,7 @@ import FeatureExplaination from "./components/FeatureExplaination.jsx";
 import DemoSection from "./components/DemoSection.jsx";
 import TestimonialsSection from "./components/TestimonialsSection.jsx";
 import CTASection from "./components/CTASection.jsx";
+import Footer from "./components/Footer.jsx";
 
 const App = () => {
     return (
@@ -13,6 +14,7 @@ const App = () => {
             <DemoSection/>
             <TestimonialsSection/>
             <CTASection/>
+            <Footer/>
 
         </>
 
