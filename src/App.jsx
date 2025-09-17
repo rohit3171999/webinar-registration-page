@@ -1,10 +1,12 @@
 
 import HeroSection from "./components/HeroSection.jsx";
+import FeatureExplaination from "./components/FeatureExplaination.jsx";
 
 const App = () => {
     return (
         <>
         <HeroSection/>
+            <FeatureExplaination/>
         </>
 
     );
